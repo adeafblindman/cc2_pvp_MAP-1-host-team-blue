@@ -49,7 +49,7 @@
 					<b value="49"/>
 				</blueprint_unlocks>
 			</t>
-			<t id="3" index="2" seed="10709" difficulty_factor="7.50000000e-01" biome_type="7" team_control="3" team_capture="4294967295" team_capture_progress="0.00000000e+00" last_captured_tick="0">
+			<t id="3" index="2" seed="10709" difficulty_factor="7.50000000e-01" biome_type="7" team_control="4" team_capture="4294967295" team_capture_progress="0.00000000e+00" last_captured_tick="0">
 				<bounds>
 					<min x="-2.00000000e+03" y="1.00000000e+03" z="-2.00000000e+03"/>
 					<max x="2.00000000e+03" y="1.00000000e+03" z="2.00000000e+03"/>
@@ -541,6 +541,72 @@
 				</weapon_targets>
 				<respawn_position x="5.02877728e+04" y="1.75000000e+01" z="4.23264554e+04"/>
 				<destroyed_position x="0.00000000e+00" y="0.00000000e+00" z="0.00000000e+00"/>
+				<notifications_holomap>
+					<n type="0" value_0="9" value_1="0" value_2="0" time="1706" display_name="">
+						<blueprints/>
+					</n>
+					<n type="2" value_0="0" value_1="0" value_2="0" time="1706" display_name="">
+						<blueprints>
+							<b value="0"/>
+							<b value="1"/>
+							<b value="2"/>
+							<b value="3"/>
+							<b value="4"/>
+							<b value="5"/>
+							<b value="6"/>
+							<b value="7"/>
+							<b value="8"/>
+							<b value="9"/>
+							<b value="10"/>
+							<b value="11"/>
+							<b value="12"/>
+							<b value="13"/>
+							<b value="14"/>
+							<b value="15"/>
+							<b value="16"/>
+							<b value="17"/>
+							<b value="18"/>
+							<b value="19"/>
+							<b value="20"/>
+							<b value="21"/>
+							<b value="22"/>
+							<b value="23"/>
+						</blueprints>
+					</n>
+					<n type="2" value_0="0" value_1="0" value_2="0" time="1706" display_name="">
+						<blueprints>
+							<b value="24"/>
+							<b value="25"/>
+							<b value="26"/>
+							<b value="27"/>
+							<b value="28"/>
+							<b value="29"/>
+							<b value="30"/>
+							<b value="31"/>
+							<b value="32"/>
+							<b value="33"/>
+							<b value="34"/>
+							<b value="35"/>
+							<b value="36"/>
+							<b value="37"/>
+							<b value="38"/>
+							<b value="39"/>
+							<b value="40"/>
+							<b value="41"/>
+							<b value="42"/>
+							<b value="43"/>
+							<b value="44"/>
+							<b value="45"/>
+							<b value="46"/>
+							<b value="47"/>
+						</blueprints>
+					</n>
+					<n type="2" value_0="0" value_1="0" value_2="0" time="1706" display_name="">
+						<blueprints>
+							<b value="48"/>
+						</blueprints>
+					</n>
+					</n>
 				<notifications_holomap/>
 				<unlocked_blueprints>
 					<bytes size="7">
@@ -646,6 +712,72 @@
 				</weapon_targets>
 				<respawn_position x="1.01876927e+04" y="1.75000000e+01" z="6.28353929e+04"/>
 				<destroyed_position x="0.00000000e+00" y="0.00000000e+00" z="0.00000000e+00"/>
+				<notifications_holomap>
+					<n type="0" value_0="12" value_1="0" value_2="0" time="1706" display_name="">
+						<blueprints/>
+					</n>
+					<n type="2" value_0="0" value_1="0" value_2="0" time="1706" display_name="">
+						<blueprints>
+							<b value="0"/>
+							<b value="1"/>
+							<b value="2"/>
+							<b value="3"/>
+							<b value="4"/>
+							<b value="5"/>
+							<b value="6"/>
+							<b value="7"/>
+							<b value="8"/>
+							<b value="9"/>
+							<b value="10"/>
+							<b value="11"/>
+							<b value="12"/>
+							<b value="13"/>
+							<b value="14"/>
+							<b value="15"/>
+							<b value="16"/>
+							<b value="17"/>
+							<b value="18"/>
+							<b value="19"/>
+							<b value="20"/>
+							<b value="21"/>
+							<b value="22"/>
+							<b value="23"/>
+						</blueprints>
+					</n>
+					<n type="2" value_0="0" value_1="0" value_2="0" time="1706" display_name="">
+						<blueprints>
+							<b value="24"/>
+							<b value="25"/>
+							<b value="26"/>
+							<b value="27"/>
+							<b value="28"/>
+							<b value="29"/>
+							<b value="30"/>
+							<b value="31"/>
+							<b value="32"/>
+							<b value="33"/>
+							<b value="34"/>
+							<b value="35"/>
+							<b value="36"/>
+							<b value="37"/>
+							<b value="38"/>
+							<b value="39"/>
+							<b value="40"/>
+							<b value="41"/>
+							<b value="42"/>
+							<b value="43"/>
+							<b value="44"/>
+							<b value="45"/>
+							<b value="46"/>
+							<b value="47"/>
+						</blueprints>
+					</n>
+					<n type="2" value_0="0" value_1="0" value_2="0" time="1706" display_name="">
+						<blueprints>
+							<b value="48"/>
+						</blueprints>
+					</n>
+					</n>
 				<notifications_holomap/>
 				<unlocked_blueprints>
 					<bytes size="7">
@@ -740,7 +872,7 @@
 					</carrier_order>
 				</barge_manager>
 			</t>	
-			<t id="3" pattern_index="11" is_ai_controlled="false" is_neutral="true" transmissions_unlocked="0" transmissions_unread="0" start_tile_id="9" is_destroyed="false" currency="3000" total_successful_island_captures="1">
+			<t id="4" pattern_index="11" is_ai_controlled="false" is_neutral="true" transmissions_unlocked="0" transmissions_unread="0" start_tile_id="9" is_destroyed="false" currency="3000" total_successful_island_captures="1">
 				<vision_data>
 					<observation_data/>
 					<observation_data_missiles/>
@@ -751,6 +883,72 @@
 				</weapon_targets>
 				<respawn_position x="1.12193695e+04" y="1.75000000e+01" z="1.02546625e+04"/>
 				<destroyed_position x="0.00000000e+00" y="0.00000000e+00" z="0.00000000e+00"/>
+				<notifications_holomap>
+					<n type="0" value_0="3" value_1="0" value_2="0" time="1706" display_name="">
+						<blueprints/>
+					</n>
+					<n type="2" value_0="0" value_1="0" value_2="0" time="1706" display_name="">
+						<blueprints>
+							<b value="0"/>
+							<b value="1"/>
+							<b value="2"/>
+							<b value="3"/>
+							<b value="4"/>
+							<b value="5"/>
+							<b value="6"/>
+							<b value="7"/>
+							<b value="8"/>
+							<b value="9"/>
+							<b value="10"/>
+							<b value="11"/>
+							<b value="12"/>
+							<b value="13"/>
+							<b value="14"/>
+							<b value="15"/>
+							<b value="16"/>
+							<b value="17"/>
+							<b value="18"/>
+							<b value="19"/>
+							<b value="20"/>
+							<b value="21"/>
+							<b value="22"/>
+							<b value="23"/>
+						</blueprints>
+					</n>
+					<n type="2" value_0="0" value_1="0" value_2="0" time="1706" display_name="">
+						<blueprints>
+							<b value="24"/>
+							<b value="25"/>
+							<b value="26"/>
+							<b value="27"/>
+							<b value="28"/>
+							<b value="29"/>
+							<b value="30"/>
+							<b value="31"/>
+							<b value="32"/>
+							<b value="33"/>
+							<b value="34"/>
+							<b value="35"/>
+							<b value="36"/>
+							<b value="37"/>
+							<b value="38"/>
+							<b value="39"/>
+							<b value="40"/>
+							<b value="41"/>
+							<b value="42"/>
+							<b value="43"/>
+							<b value="44"/>
+							<b value="45"/>
+							<b value="46"/>
+							<b value="47"/>
+						</blueprints>
+					</n>
+					<n type="2" value_0="0" value_1="0" value_2="0" time="1706" display_name="">
+						<blueprints>
+							<b value="48"/>
+						</blueprints>
+					</n>
+					</n>
 				<notifications_holomap/>
 				<unlocked_blueprints>
 					<bytes size="7">
@@ -856,7 +1054,7 @@
 </scene>
 <vehicles>
 	<vehicles>
-		<v id="1" definition_index="64" team_id="3">
+		<v id="1" definition_index="64" team_id="4">
 			<transform m00="7.10913553e-01" m01="0.00000000e+00" m02="-7.03279398e-01" m10="0.00000000e+00" m11="1.00000000e+00" m12="0.00000000e+00" m20="7.03279398e-01" m21="0.00000000e+00" m22="7.10913553e-01" tx="1.10007803e+04" ty="-1.00000000e+00" tz="1.01403438e+04"/>
 			<attachments/>
 			<bodies>
@@ -872,7 +1070,7 @@
 				</b>
 			</bodies>
 		</v>
-		<v id="2" definition_index="0" team_id="3">
+		<v id="2" definition_index="0" team_id="4">
 			<transform m00="7.10913560e-01" m01="1.35827882e-09" m02="-7.03279395e-01" m10="6.12948361e-02" m11="9.96194698e-01" m12="6.19601989e-02" m20="7.00603205e-01" m21="-8.71557409e-02" m22="7.08208319e-01" tx="1.11959403e+04" ty="3.05000000e+01" tz="1.03376223e+04"/>
 			<attachments>
 				<a definition_index="30" attachment_index="0">
@@ -936,7 +1134,7 @@
 				</b>
 			</bodies>
 		</v>
-		<v id="3" definition_index="16"  team_id="3">
+		<v id="3" definition_index="16"  team_id="4">
 			<transform m00="-5.39690915e-01" m01="-6.62365742e-04" m02="8.41863019e-01" m10="-3.23602063e-02" m11="9.99276969e-01" m12="-1.99588549e-02" m20="-8.41241106e-01" m21="-3.80144724e-02" m22="-5.39322136e-01" tx="1.14253405e+04" ty="5.90354109e+00" tz="1.06648592e+04"/>
 			<attachments>
 				<a definition_index="38" attachment_index="0">
@@ -951,7 +1149,7 @@
 				</b>
 			</bodies>
 		</v>
-		<v id="4" definition_index="57"  team_id="3">
+		<v id="4" definition_index="57"  team_id="4">
 			<transform m00="7.00603108e-01" m01="-8.71557776e-02" m02="7.08208486e-01" m10="-2.68671611e-01" m11="8.87247876e-01" m12="3.74975747e-01" m20="-6.61037786e-01" m21="-4.52984675e-01" m22="5.98192335e-01" tx="1.11569047e+04" ty="5.59275551e+01" tz="1.03395012e+04"/>
 			<attachments/>
 			<bodies>
@@ -1429,7 +1627,7 @@
 				</b>
 			</bodies>
 		</v>
-		<v id="37" definition_index="10"  team_id="3">
+		<v id="37" definition_index="10"  team_id="4">
 			<transform m00="-7.00603269e-01" m01="8.71557308e-02" m02="-7.08208282e-01" m10="6.12948292e-02" m11="9.96194699e-01" m12="6.19601914e-02" m20="7.10913523e-01" m21="6.40458597e-09" m22="-7.03279459e-01" tx="1.11332507e+04" ty="5.10518684e+01" tz="1.02927369e+04"/>
 			<attachments>
 				<a definition_index="38" attachment_index="0">
@@ -1468,7 +1666,7 @@
 				</b>
 			</bodies>
 		</v>
-		<v id="38" definition_index="10"  team_id="3">
+		<v id="38" definition_index="10"  team_id="4">
 			<transform m00="7.00603157e-01" m01="-8.71557499e-02" m02="7.08208438e-01" m10="6.12948471e-02" m11="9.96194698e-01" m12="6.19602005e-02" m20="-7.10913678e-01" m21="5.55988655e-09" m22="7.03279347e-01" tx="1.11517344e+04" ty="5.10518684e+01" tz="1.02744517e+04"/>
 			<attachments>
 				<a definition_index="38" attachment_index="0">
@@ -1507,7 +1705,7 @@
 				</b>
 			</bodies>
 		</v>
-		<v id="39" definition_index="10"  team_id="3">
+		<v id="39" definition_index="10"  team_id="4">
 			<transform m00="-7.00603269e-01" m01="8.71557376e-02" m02="-7.08208282e-01" m10="6.12948360e-02" m11="9.96194699e-01" m12="6.19601943e-02" m20="7.10913523e-01" m21="3.53753515e-09" m22="-7.03279459e-01" tx="1.11490142e+04" ty="4.90908623e+01" tz="1.03086716e+04"/>
 			<attachments>
 				<a definition_index="38" attachment_index="0">
@@ -1546,7 +1744,7 @@
 				</b>
 			</bodies>
 		</v>
-		<v id="40" definition_index="10"  team_id="3">
+		<v id="40" definition_index="10"  team_id="4">
 			<transform m00="7.00603157e-01" m01="-8.71557513e-02" m02="7.08208438e-01" m10="6.12948457e-02" m11="9.96194698e-01" m12="6.19602040e-02" m20="-7.10913679e-01" m21="2.12529927e-09" m22="7.03279347e-01" tx="1.11674980e+04" ty="4.90908661e+01" tz="1.02903864e+04"/>
 			<attachments>
 				<a definition_index="38" attachment_index="0">
@@ -1585,7 +1783,7 @@
 				</b>
 			</bodies>
 		</v>
-		<v id="41" definition_index="10"  team_id="3">
+		<v id="41" definition_index="10"  team_id="4">
 			<transform m00="7.00603157e-01" m01="-8.71557513e-02" m02="7.08208438e-01" m10="6.12948457e-02" m11="9.96194698e-01" m12="6.19602040e-02" m20="-7.10913679e-01" m21="2.12529927e-09" m22="7.03279347e-01" tx="1.12000760e+04" ty="4.50381241e+01" tz="1.03233181e+04"/>
 			<attachments>
 				<a definition_index="38" attachment_index="0">
@@ -1624,7 +1822,7 @@
 				</b>
 			</bodies>
 		</v>
-		<v id="42" definition_index="10"  team_id="3">
+		<v id="42" definition_index="10"  team_id="4">
 			<transform m00="-7.00603270e-01" m01="8.71557391e-02" m02="-7.08208282e-01" m10="6.12948346e-02" m11="9.96194698e-01" m12="6.19601977e-02" m20="7.10913523e-01" m21="6.97212221e-09" m22="-7.03279459e-01" tx="1.11819426e+04" ty="4.49945412e+01" tz="1.03419574e+04"/>
 			<attachments>
 				<a definition_index="38" attachment_index="0">
@@ -1663,7 +1861,7 @@
 				</b>
 			</bodies>
 		</v>
-		<v id="43" definition_index="10"  team_id="3">
+		<v id="43" definition_index="10"  team_id="4">
 			<transform m00="7.00603157e-01" m01="-8.71557527e-02" m02="7.08208438e-01" m10="6.12948443e-02" m11="9.96194698e-01" m12="6.19602074e-02" m20="-7.10913679e-01" m21="-1.30928801e-09" m22="7.03279347e-01" tx="1.12158396e+04" ty="4.30771179e+01" tz="1.03392527e+04"/>
 			<attachments>
 				<a definition_index="38" attachment_index="0">
@@ -1702,7 +1900,7 @@
 				</b>
 			</bodies>
 		</v>
-		<v id="44" definition_index="10"  team_id="3">
+		<v id="44" definition_index="10"  team_id="4">
 			<transform m00="-7.00603270e-01" m01="8.71557391e-02" m02="-7.08208282e-01" m10="6.12948346e-02" m11="9.96194698e-01" m12="6.19601977e-02" m20="7.10913523e-01" m21="6.97212221e-09" m22="-7.03279459e-01" tx="1.11973559e+04" ty="4.30771141e+01" tz="1.03575380e+04"/>
 			<attachments>
 				<a definition_index="38" attachment_index="0">
