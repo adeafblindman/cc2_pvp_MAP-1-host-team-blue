@@ -35,7 +35,7 @@ Save slot 1 is set up for the host to be the pvp team 1. (blue team)
 The team islands have no defences and there is one AI team set in the middle with defenses.
 	The AI team will shoot at the streaming team so be aware when flying near the middle.
 
-Team 3 is set up to be an observer only. They are set up with mantas and fuel tanks for longer flights.
+Team 4 is set up to be an observer only. They are set up with mantas and fuel tanks for longer flights.
 
 Teams 1 and 2 are set up with basic loadouts with 3k starting credits to start logistics.
 
@@ -48,12 +48,12 @@ BlueCamo vechs
 TEAM 2
 PVP team Gold
 Green Camo vechs
-TEAM 3
-Yellow team set as streaming (looks green on map)
+TEAM 4
+Pink team set as streaming 
 Pink colored vechs
 
 Map layout
 
 
-![image](https://user-images.githubusercontent.com/3588943/129530231-eec55a19-542d-48f8-a6b0-f2f6bb73fce2.png)
+![image](https://user-images.githubusercontent.com/3588943/129600040-018bfcf6-738f-4947-a66b-03c428386417.png)
 
