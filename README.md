@@ -32,7 +32,7 @@ Map info
 
 Save slot 1 is set up for the host to be the pvp team 1. (blue team)
 
-The team islands have no defences and there is one AI team set in the middle with defenses.
+The team islands have no defences and there is one AI team set in the middle with defences.
 	The AI team will shoot at the streaming team so be aware when flying near the middle.
 
 Team 4 is set up to be an observer only. They are set up with mantas and fuel tanks for longer flights.
